@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<company>
+	<record refId="1001">
+		<name>Abhijeet Kulkarni</name>
+		<age>31</age>
+		<dob>27/11/1989</dob>
+		<income>200,000</income>
+	</record>
+	<record refId="1002">
+		<name>Snehal Kulkarni</name>
+		<age>29</age>
+		<dob>24/05/1991</dob>
+		<income>100,999</income>
+	</record>
+	<record refId="1003">
+		<name>Anvi Kulkarni</name>
+		<age>4</age>
+		<dob>12/05/2016</dob>
+		<income>1,000,000</income>
+	</record>
+</company>
