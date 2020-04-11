@@ -1,0 +1,2 @@
+Step 1: Read data from CSV file and store into Oracle database.
+Step 2: Read data from Oracle database and use stored procedure to insert data into corresponding tables.
